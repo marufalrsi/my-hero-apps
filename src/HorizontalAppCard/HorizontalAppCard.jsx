@@ -1,10 +1,9 @@
 import React from 'react';
 import download from '../assets/icon-downloads.png';
 import star from '../assets/icon-ratings.png';
-import { removedata } from '../localStorage';
 
 
-const HorizontalAppCard = ({ app }) => {
+const HorizontalAppCard = ({ app, handleRemove }) => {
   console.log(app);
   const{image,title,downloads,ratingAvg,id,size
 } = app;
@@ -30,7 +29,7 @@ const HorizontalAppCard = ({ app }) => {
                 </div>
             </div>
             <div>
-                <button onClick={()=>removedata(id)} class="btn btn-success">uninstall</button>
+                <button onClick={() => handleRemove(id)} className="btn btn-success">uninstall</button>
             </div>
         </div>
     );

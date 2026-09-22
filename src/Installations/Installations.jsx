@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { getData } from '../localStorage.js';
+import { getData, removedata } from '../localStorage.js';
 import HorizontalAppCard from'../HorizontalAppCard/HorizontalAppCard.jsx'
 
 const Installations = () => {
@@ -20,6 +20,13 @@ const Installations = () => {
                 setallapps(installedApps);
             })
     }, []);
+    const handleRemove = (id) => {
+    removedata(id);
+
+    setallapps((apps) =>
+        apps.filter((app) => String(app.id) !== String(id))
+    );
+};
 
     return (
         <div>
@@ -28,17 +35,16 @@ const Installations = () => {
                 <p className='text-center pt-3'>Explore All Trending Apps on the Market developed by us.</p>
             </div>
 
-            {!allapps.length ? (
-                <div className='max-w-6xl mx-auto px-4 pb-10 text-center text-gray-500'>
-                    No installed apps yet.
-                </div>
-            ) : (
+            
                 <div className='max-w-6xl mx-auto px-4 pb-10'>
                     {allapps.map((app) => (
-                        <HorizontalAppCard key={app.id} app={app} />
+                        <HorizontalAppCard
+                            key={app.id}
+                            app={app}
+                            handleRemove={handleRemove}
+                        />
                     ))}
                 </div>
-            )}
         </div>
     );
 };
