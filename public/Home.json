@@ -1,0 +1,146 @@
+[
+  {
+    "image": "https://s3-figma-hubfile-images-production-cdn-cgi.figma.com/cdn-cgi/image/format=auto,quality=85/hub/file/carousel/img/853c035f69178972dc9e618a94c77f6da334fec2/f1bdbf47c4f81d794c7cf8ff1043a702d7f0e2d9",
+    "title": "TaskFlow Pro",
+    "companyName": "NovaSoft Technologies",
+    "id": 1,
+    "description": "TaskFlow Pro is a modern productivity and task management application designed to help individuals, students, freelancers, and professional teams organize their daily responsibilities more efficiently. The application provides a clean and intuitive workspace where users can create tasks, assign priorities, set deadlines, organize projects, and monitor their progress from a single dashboard. Its colorful interface makes it easy to distinguish between different projects and task categories while keeping the overall experience simple and focused. Users can create personal task lists or collaborate with team members on shared projects. Each task can contain a title, detailed description, priority level, deadline, checklist, and optional notes. The application also provides progress indicators that allow users to quickly understand how much work has been completed and what remains. TaskFlow Pro includes smart reminders that notify users about approaching deadlines, helping them avoid missed assignments and important responsibilities. A calendar view allows users to visualize upcoming tasks and plan their workload more effectively. The application is particularly useful for students who need to manage assignments, examination preparation, group projects, and personal activities. Professionals can use it to manage meetings, development tasks, business projects, and team responsibilities. Another important feature is productivity analytics, which provides simple reports about completed tasks and working patterns. TaskFlow Pro is designed with performance and accessibility in mind, allowing users to access their information quickly even when managing many tasks. Its responsive design works across desktop, tablet, and mobile devices. By combining task management, collaboration, reminders, calendar planning, and productivity statistics, TaskFlow Pro provides a complete digital workspace for anyone who wants to stay organized, reduce stress, and accomplish their goals more consistently.",
+    "size": 48,
+    "reviews": 18420,
+    "ratingAvg": 4.7,
+    "downloads": 850000,
+    "ratings": [
+      { "name": "1 star", "count": 520 },
+      { "name": "2 star", "count": 740 },
+      { "name": "3 star", "count": 1820 },
+      { "name": "4 star", "count": 4960 },
+      { "name": "5 star", "count": 10380 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz9muQyQS5cE3AORPGu-BbRNBQ_3-pJUA2kW6fzUNu2whvDnEDaf_--qFb&s=10",
+    "title": "StudyMate",
+    "companyName": "BrightMind Labs",
+    "id": 2,
+    "description": "StudyMate is an educational productivity application created for students who want to improve their learning habits and organize their academic activities in one convenient platform. The application combines study planning, note organization, task management, reminders, and learning statistics to provide students with a complete digital study environment. Users can create individual subjects and organize notes, assignments, projects, examination dates, and important resources under each subject. A colorful dashboard provides a quick overview of upcoming deadlines and daily study goals, making it easier to understand what needs immediate attention. StudyMate includes a customizable study planner that allows users to divide large academic goals into smaller daily activities. This approach can help students maintain consistency and avoid last-minute preparation. The application also includes a focused study timer inspired by productivity techniques such as the Pomodoro method. Students can select a study duration, start a session, take scheduled breaks, and track their total study time. A progress section displays statistics about completed sessions and academic tasks. Users can also create digital flashcards for memorizing definitions, formulas, vocabulary, and important concepts. The application supports different color labels so that students can visually separate subjects and priorities. StudyMate is suitable for school, college, and university students as well as independent learners preparing for professional examinations. The interface is designed to remain simple enough for beginners while providing useful features for experienced users. Since the application stores academic planning information in an organized structure, students can quickly locate previous notes and review their progress. StudyMate aims to make studying more structured and less overwhelming by turning academic responsibilities into manageable activities. With planning tools, focused study sessions, reminders, flashcards, and progress tracking, it provides a practical companion for students who want to build better learning habits and achieve their academic goals.",
+    "size": 36,
+    "reviews": 12650,
+    "ratingAvg": 4.6,
+    "downloads": 620000,
+    "ratings": [
+      { "name": "1 star", "count": 380 },
+      { "name": "2 star", "count": 510 },
+      { "name": "3 star", "count": 1290 },
+      { "name": "4 star", "count": 3560 },
+      { "name": "5 star", "count": 6910 }
+    ]
+  },
+  {
+    "image": "https://www.codecraftstudios.in/favicon.png",
+    "title": "CodeCraft Studio",
+    "companyName": "PixelForge Software",
+    "id": 3,
+    "description": "CodeCraft Studio is a developer-focused application designed to provide programmers with a convenient environment for writing, organizing, testing, and improving source code. It supports developers who work with multiple programming languages and need a flexible workspace for personal projects, academic assignments, and professional development. The application provides syntax highlighting, intelligent code suggestions, project navigation, search functionality, file management, and customizable editor settings. Its colorful coding interface helps developers identify programming structures such as keywords, functions, variables, comments, and strings more easily. CodeCraft Studio is designed for both beginners and experienced developers. Beginners can use the simplified interface to learn programming concepts and experiment with small programs, while advanced users can configure their workspace according to their preferred development workflow. The application supports project-based organization, allowing users to keep source files, configuration files, documentation, and assets together. A built-in terminal provides convenient access to development commands without requiring users to leave the application. CodeCraft Studio also includes version-control integration so developers can review file changes, create commits, and manage branches while working on software projects. Another useful feature is an integrated debugging environment that helps users identify logical and runtime errors. Developers can place breakpoints, inspect variables, and execute programs step by step. The application provides customizable themes and font settings so that users can create a comfortable coding environment for long development sessions. CodeCraft Studio is especially useful for computer science students who regularly work with languages such as C, C++, Java, Python, JavaScript, and TypeScript. Professional developers can use it for web development, software engineering, automation, and scripting projects. By combining editing, debugging, terminal access, project management, and version-control features, CodeCraft Studio provides a practical workspace that helps developers write better code and manage their projects more efficiently.",
+    "size": 82,
+    "reviews": 22140,
+    "ratingAvg": 4.8,
+    "downloads": 1250000,
+    "ratings": [
+      { "name": "1 star", "count": 290 },
+      { "name": "2 star", "count": 420 },
+      { "name": "3 star", "count": 1110 },
+      { "name": "4 star", "count": 4720 },
+      { "name": "5 star", "count": 15600 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLkuBRn_CqVzq-g8HPLrlmi9wDJgqWnz8782gUk1vySQ&s",
+    "title": "TeamConnect",
+    "companyName": "ConnectSphere Inc.",
+    "id": 4,
+    "description": "TeamConnect is a collaborative communication and project coordination application designed for teams that need to work together efficiently from different locations. The platform combines team messaging, file sharing, project discussions, task assignments, and meeting coordination into a single digital workspace. Users can create dedicated workspaces for different organizations, departments, courses, or projects. Within each workspace, administrators can create channels for specific topics and teams. The application provides instant messaging features that allow members to communicate through direct messages or group conversations. TeamConnect also supports file sharing, allowing users to upload documents, images, presentations, and other project resources directly into conversations. A search feature helps users find previous messages and shared files without manually scrolling through long conversations. The project management section allows team leaders to create tasks and assign them to individual members. Each task can have a deadline, priority, description, and completion status. Team members can update their progress and communicate about tasks directly inside the project workspace. The application also provides a calendar that displays important meetings, deadlines, and team events. Notifications help members stay aware of new messages, assignments, and approaching deadlines. TeamConnect focuses on maintaining a clean and colorful interface while avoiding unnecessary complexity. It can be used by software development teams, university project groups, marketing teams, startups, and remote organizations. The application supports responsive layouts so users can communicate from computers, tablets, and smartphones. Security features such as controlled workspace access and user permissions help organizations manage who can view or modify shared information. TeamConnect aims to reduce the need for multiple disconnected communication tools by bringing important team activities into one platform. With messaging, file sharing, task management, calendars, notifications, and organized workspaces, it provides teams with a practical environment for collaboration and project execution.",
+    "size": 64,
+    "reviews": 15890,
+    "ratingAvg": 4.5,
+    "downloads": 930000,
+    "ratings": [
+      { "name": "1 star", "count": 620 },
+      { "name": "2 star", "count": 830 },
+      { "name": "3 star", "count": 2140 },
+      { "name": "4 star", "count": 4380 },
+      { "name": "5 star", "count": 7920 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMD2OVP5n8Ptl-f63Vb9mtLq0ePD-ZKPX8he75t3_CaQ&s",
+    "title": "FinanceFlow",
+    "companyName": "GreenLeaf Digital",
+    "id": 5,
+    "description": "FinanceFlow is a personal finance management application designed to help users understand their spending habits, organize income and expenses, and create healthier financial routines. The application provides a simple dashboard where users can see their current financial overview without needing to analyze complicated spreadsheets. Users can record income, expenses, savings, subscriptions, bills, and other financial transactions. Transactions can be categorized into areas such as food, transportation, education, entertainment, shopping, housing, and utilities. Colorful charts make it easier to understand where money is being spent during a selected period. FinanceFlow includes monthly and yearly reports that summarize income, expenses, savings, and category-based spending. Users can create personal budgets and assign spending limits to different categories. When spending approaches a selected limit, the application can provide a reminder so users can make better decisions. Another useful feature is recurring expense management, which helps users remember regular payments such as subscriptions, rent, internet bills, and memberships. FinanceFlow also provides savings goals where users can specify a target amount and monitor their progress over time. The application is designed for students, employees, freelancers, families, and anyone who wants a clearer understanding of personal finances. It does not require advanced accounting knowledge because the interface focuses on straightforward financial information. Users can filter transactions by date, category, or payment type to quickly locate specific records. The application also provides visual comparisons between different months so users can identify changes in their spending patterns. Privacy and secure access are important parts of the design because financial information should be protected from unauthorized access. FinanceFlow aims to turn financial management into a simple daily habit rather than a complicated administrative task. By combining expense tracking, budgeting, savings goals, reports, reminders, and visual analytics, the application gives users practical tools for making informed financial decisions and gradually improving their financial discipline.",
+    "size": 42,
+    "reviews": 9870,
+    "ratingAvg": 4.4,
+    "downloads": 510000,
+    "ratings": [
+      { "name": "1 star", "count": 440 },
+      { "name": "2 star", "count": 620 },
+      { "name": "3 star", "count": 1480 },
+      { "name": "4 star", "count": 2910 },
+      { "name": "5 star", "count": 4420 }
+    ]
+  },
+  {
+    "image": "https://img.magnific.com/free-vector/n-initial-gradient-colorful-logo-design_343694-1755.jpg",
+    "title": "CreativeCanvas",
+    "companyName": "ArtNova Studios",
+    "id": 6,
+    "description": "CreativeCanvas is a digital design and creative workspace built for artists, designers, students, content creators, and anyone who enjoys creating visual content. The application provides a flexible canvas where users can create illustrations, posters, social media graphics, presentations, concept designs, and other visual projects. A collection of drawing and design tools allows users to work with shapes, lines, text, images, layers, and freehand brushes. CreativeCanvas focuses heavily on usability, providing an intuitive interface that allows beginners to start designing without requiring professional graphic design experience. Users can select from different canvas sizes and create projects for digital screens, presentations, websites, or printable materials. The application includes a large color palette with customizable colors and gradients, allowing creators to develop visually attractive compositions. Layer management allows users to separate individual design elements, making it easier to modify complex projects without affecting the entire composition. Users can import images and combine them with text, shapes, illustrations, and other elements. CreativeCanvas also includes alignment guides and basic editing tools that help users create cleaner designs. Templates are available for common projects such as posters, invitations, banners, presentations, thumbnails, and social media posts. Users can customize these templates according to their own requirements. The application supports exporting completed projects in commonly used image formats, making it convenient to share designs online. CreativeCanvas can be used for academic assignments, marketing materials, personal artwork, small business branding, and social media content. Its responsive interface is designed to provide a comfortable experience on different screen sizes. The application also includes project organization features so users can keep multiple designs grouped together. CreativeCanvas aims to make digital creativity accessible to everyone by combining powerful design capabilities with a beginner-friendly interface. Whether someone wants to create a simple poster or experiment with detailed digital artwork, CreativeCanvas provides a colorful and flexible environment for turning creative ideas into finished visual projects.",
+    "size": 95,
+    "reviews": 13560,
+    "ratingAvg": 4.7,
+    "downloads": 740000,
+    "ratings": [
+      { "name": "1 star", "count": 310 },
+      { "name": "2 star", "count": 460 },
+      { "name": "3 star", "count": 1270 },
+      { "name": "4 star", "count": 3540 },
+      { "name": "5 star", "count": 7980 }
+    ]
+  },
+  {
+    "image": "https://images.seeklogo.com/logo-png/18/1/datavision-digital-logo-png_seeklogo-187559.png",
+    "title": "DataVision",
+    "companyName": "InsightWorks",
+    "id": 7,
+    "description": "DataVision is a data visualization and analytics application designed to help users transform complex datasets into understandable charts, dashboards, and reports. The application is useful for students, researchers, business analysts, developers, managers, and organizations that need to understand large amounts of information. Users can import structured datasets and organize their information into customizable dashboards. DataVision supports several common visualization types, including bar charts, line charts, pie charts, area charts, tables, and comparison graphs. Each visualization can be configured according to the type of information being analyzed. The colorful dashboard interface makes patterns, differences, trends, and changes easier to identify. Users can filter datasets based on dates, categories, values, or other available fields. This allows analysts to focus on specific portions of their data without modifying the original dataset. DataVision also provides summary statistics that can help users understand averages, totals, minimum values, maximum values, and other basic measurements. Users can create multiple dashboards for different projects and save their preferred layouts for later use. The reporting system allows completed dashboards to be shared with team members or exported for presentations and documentation. DataVision is particularly useful for academic research because students can use it to analyze survey results, experimental measurements, or collected datasets. Businesses can use the application to monitor sales, customer behavior, marketing performance, inventory, and operational metrics. The application is designed to present information clearly rather than overwhelm users with unnecessary technical features. Advanced users can customize dashboard layouts and create more detailed analytical views, while beginners can start with simple chart templates. DataVision also emphasizes responsive design so dashboards remain useful across different screen sizes. By combining data import, filtering, visualization, statistics, dashboards, and reporting features, DataVision helps users move from raw information to meaningful insights. Its primary goal is to make data analysis more accessible and visually understandable for both technical and non-technical users.",
+    "size": 71,
+    "reviews": 11240,
+    "ratingAvg": 4.6,
+    "downloads": 680000,
+    "ratings": [
+      { "name": "1 star", "count": 270 },
+      { "name": "2 star", "count": 390 },
+      { "name": "3 star", "count": 1190 },
+      { "name": "4 star", "count": 3290 },
+      { "name": "5 star", "count": 6100 }
+    ]
+  },
+  {
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/041/041/570/small_2x/travel-app-logo-icon-brand-identity-sign-symbol-vector.jpg",
+    "title": "TravelMate",
+    "companyName": "WanderByte",
+    "id": 8,
+    "description": "TravelMate is a travel planning application designed to help travelers organize trips, discover destinations, create itineraries, and keep important travel information in one convenient place. Planning a trip can involve many separate activities such as selecting destinations, researching attractions, organizing transportation, finding accommodation, preparing budgets, and remembering important dates. TravelMate brings these activities together through a simple and colorful interface. Users can create a trip by entering the destination, travel dates, and personal preferences. The application then provides an organized workspace where users can build a daily itinerary. Each day can include attractions, restaurants, activities, transportation information, and personal notes. Travelers can rearrange activities according to their preferred schedule. A map-based interface can help users understand the approximate locations of planned activities and reduce unnecessary travel between destinations. TravelMate also includes a travel budget feature where users can record estimated costs for accommodation, transportation, food, shopping, entertainment, and other expenses. This helps travelers understand how much money they may need before starting their journey. Users can save favorite destinations and maintain a personal list of places they want to visit in the future. The application provides packing-list functionality so travelers can create customized checklists based on the type and length of their trip. Important reminders can be added for flights, hotel check-ins, activities, and other time-sensitive events. TravelMate is useful for solo travelers, couples, families, students, and groups of friends. It can also help business travelers maintain organized schedules during professional trips. The responsive interface allows users to access their itinerary from computers, tablets, and smartphones. TravelMate focuses on reducing the stress associated with travel preparation by providing one organized location for trip information. Instead of keeping plans across multiple notes, documents, and applications, users can manage their itinerary, budget, checklist, saved destinations, and reminders together. With these features, TravelMate helps travelers stay organized and enjoy a smoother journey from the planning stage to the final day of their trip.",
+    "size": 55,
+    "reviews": 17680,
+    "ratingAvg": 4.5,
+    "downloads": 890000,
+    "ratings": [
+      { "name": "1 star", "count": 510 },
+      { "name": "2 star", "count": 690 },
+      { "name": "3 star", "count": 1840 },
+      { "name": "4 star", "count": 4810 },
+      { "name": "5 star", "count": 9830 }
+    ]
+  }
+]

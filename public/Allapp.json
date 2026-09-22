@@ -1,0 +1,365 @@
+[
+  {
+    "image": "https://images.seeklogo.com/logo-png/67/1/google-health-app-icon-logo-png_seeklogo-674905.png",
+    "title": "HealthTrack",
+    "companyName": "WellnessCore",
+    "id": 9,
+    "description": "HealthTrack is a personal wellness application designed to help users build healthier daily habits and maintain a balanced lifestyle. The application provides a simple dashboard where users can monitor daily activities such as exercise, water consumption, sleep, meals, and general wellness goals. Users can create personalized targets based on their lifestyle and track their progress over time. A colorful interface makes the information easy to understand without overwhelming users with complicated statistics. HealthTrack includes a daily activity tracker that allows users to record walking, running, cycling, workouts, and other physical activities. Users can also record their daily water intake and receive reminders when they have not consumed enough water during the day. The sleep section allows users to record sleeping and waking times so they can understand their sleeping patterns. HealthTrack provides weekly and monthly summaries that show progress toward personal goals. Users can view charts that compare their activity levels and identify changes in their routine. The application also includes customizable reminders for exercise, water, meals, and bedtime routines. Another useful feature is the habit tracker, where users can create personal habits such as walking every day, reading, exercising, or maintaining a regular sleep schedule. HealthTrack is suitable for students, professionals, remote workers, and anyone interested in maintaining a more organized lifestyle. The application focuses on general wellness tracking rather than replacing professional medical services. Its responsive design allows users to access their information from smartphones, tablets, and computers. HealthTrack aims to make healthy routines easier to maintain by turning daily activities into measurable goals. By combining activity tracking, habit management, reminders, progress charts, and personal goals, the application gives users a convenient way to understand their routines and gradually develop healthier habits.",
+    "size": 39,
+    "reviews": 14280,
+    "ratingAvg": 4.6,
+    "downloads": 730000,
+    "ratings": [
+      { "name": "1 star", "count": 340 },
+      { "name": "2 star", "count": 520 },
+      { "name": "3 star", "count": 1380 },
+      { "name": "4 star", "count": 4020 },
+      { "name": "5 star", "count": 8020 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEnbWLRfPYaoppqxfWccC5WejAB4e3CCk_FJeL36NTZn6l3IRPNf_cxL40&s=10",
+    "title": "MusicFlow",
+    "companyName": "SoundWave Labs",
+    "id": 10,
+    "description": "MusicFlow is a modern music discovery and playlist management application designed for listeners who want to organize and enjoy their favorite music in a personalized environment. The application allows users to create playlists, save favorite tracks, explore different genres, and discover new artists. Its colorful interface is designed around album artwork and visual music categories, creating an engaging experience for everyday listeners. Users can create playlists for different moods and activities, including studying, exercising, traveling, relaxing, or working. MusicFlow provides personalized recommendations based on listening preferences and saved tracks. A search feature allows users to quickly find songs, artists, albums, or playlists. The application also includes a recently played section so users can easily return to music they listened to previously. Users can mark individual songs as favorites and organize them into custom collections. MusicFlow provides genre-based discovery pages where listeners can explore categories such as pop, rock, electronic, classical, jazz, hip-hop, and instrumental music. The application includes a simple player interface with controls for play, pause, skip, repeat, and shuffle. Users can also adjust playback settings according to their preferences. The playlist system allows users to reorder songs and remove tracks without rebuilding the entire playlist. MusicFlow is designed for both casual listeners and people who frequently create detailed music collections. The responsive interface makes it possible to browse playlists and manage music from different devices. The application focuses on organization and discovery while maintaining a simple user experience. MusicFlow aims to make personal music management enjoyable by combining playlist creation, personalized discovery, favorites, search, genre exploration, and listening history. Whether users want background music for studying or a carefully organized playlist for a long journey, MusicFlow provides tools for creating a personalized listening experience.",
+    "size": 58,
+    "reviews": 19870,
+    "ratingAvg": 4.7,
+    "downloads": 1100000,
+    "ratings": [
+      { "name": "1 star", "count": 310 },
+      { "name": "2 star", "count": 460 },
+      { "name": "3 star", "count": 1320 },
+      { "name": "4 star", "count": 4920 },
+      { "name": "5 star", "count": 12860 }
+    ]
+  },
+  {
+    "image": "https://png.pngtree.com/png-vector/20250217/ourmid/pngtree-unique-food-logo-png-image_15488394.png",
+    "title": "FoodieHub",
+    "companyName": "TasteWorks",
+    "id": 11,
+    "description": "FoodieHub is a food discovery and recipe organization application created for people who enjoy cooking, discovering new meals, and maintaining a personal collection of recipes. The application provides a colorful interface where users can browse recipes based on cuisine, ingredients, meal type, preparation time, and dietary preferences. Each recipe contains information about ingredients, preparation steps, cooking time, difficulty level, and serving size. Users can save recipes to their personal collection and organize them into categories such as breakfast, lunch, dinner, snacks, desserts, or special occasions. FoodieHub includes a search system that allows users to find recipes by entering ingredients they already have at home. This feature can help reduce food waste and make meal planning easier. Users can also create weekly meal plans by assigning recipes to different days. The application automatically generates a shopping checklist based on selected recipes, helping users prepare ingredients before cooking. FoodieHub provides a colorful food-focused interface with attractive recipe images and category icons. Users can rate recipes and write reviews based on their cooking experience. A favorite system allows users to quickly access meals they frequently prepare. The application can also suggest recipes based on previously saved meals and preferred cuisines. FoodieHub is useful for university students, families, professional cooks, beginners, and people who simply want more variety in their meals. The application focuses on making cooking preparation more organized rather than replacing professional culinary instruction. Its responsive interface makes recipes easy to view while cooking. FoodieHub aims to connect recipe discovery, meal planning, shopping preparation, and personal recipe organization in one convenient application. By providing searchable recipes, personalized collections, weekly planning, ingredient-based discovery, and shopping lists, FoodieHub helps users spend less time deciding what to cook and more time enjoying the cooking experience.",
+    "size": 46,
+    "reviews": 16340,
+    "ratingAvg": 4.5,
+    "downloads": 790000,
+    "ratings": [
+      { "name": "1 star", "count": 420 },
+      { "name": "2 star", "count": 610 },
+      { "name": "3 star", "count": 1730 },
+      { "name": "4 star", "count": 4510 },
+      { "name": "5 star", "count": 9070 }
+    ]
+  },
+  
+  {
+    "image": "https://i.pinimg.com/736x/77/0b/80/770b805d5c99c7931366c2e84e88f251.jpg",
+    "title": "WeatherPulse",
+    "companyName": "SkyLogic",
+    "id": 13,
+    "description": "WeatherPulse is a weather information application designed to provide users with an organized overview of current conditions and upcoming weather patterns. The application presents weather information through a colorful interface that uses icons, charts, and simple descriptions to make conditions easy to understand. Users can search for cities and save their favorite locations for quick access. The main dashboard displays information such as temperature, weather condition, humidity, wind speed, and visibility when available. WeatherPulse also provides hourly and multi-day forecasts so users can plan activities more effectively. A visual temperature graph helps users understand how conditions may change throughout the day. The application includes weather alerts that can notify users about significant changes or severe conditions when supported by available data sources. Users can maintain a list of multiple cities, which is useful for travelers, families, students, and people who work across different locations. WeatherPulse provides sunrise and sunset information and other useful environmental details. Its colorful weather icons make the application easy to understand at a glance. Users can switch between different measurement units according to their preferences. The application is designed to provide information without making the interface unnecessarily complicated. WeatherPulse can be useful for planning outdoor activities, commuting, travel, sports, photography, and daily routines. The application also provides historical weather summaries where available, allowing users to compare current conditions with previous patterns. Its responsive design ensures that information remains readable on mobile devices, tablets, and desktop screens. WeatherPulse aims to turn complicated weather information into a simple visual experience. By combining current conditions, forecasts, saved locations, alerts, charts, and environmental information, the application helps users make better everyday plans based on weather conditions.",
+    "size": 28,
+    "reviews": 8760,
+    "ratingAvg": 4.3,
+    "downloads": 480000,
+    "ratings": [
+      { "name": "1 star", "count": 410 },
+      { "name": "2 star", "count": 690 },
+      { "name": "3 star", "count": 1640 },
+      { "name": "4 star", "count": 2740 },
+      { "name": "5 star", "count": 3280 }
+    ]
+  },
+
+  {
+    "image": "https://i.pinimg.com/736x/b4/76/ed/b476ed9134c36250e3be2245ba41c17c.jpg",
+    "title": "ChatWave",
+    "companyName": "SocialByte",
+    "id": 15,
+    "description": "ChatWave is a modern communication application designed to help individuals and groups communicate through organized digital conversations. The application provides direct messaging, group conversations, file sharing, profile management, and notification features. Users can create an account and maintain a personal profile containing their name, profile image, and optional information. The contact system allows users to find other members and start conversations. ChatWave supports both one-to-one and group messaging, making it useful for friends, classmates, families, and project teams. Users can create group conversations with custom names and images. The application provides message timestamps and conversation history so users can easily follow previous discussions. Users can share images, documents, and other supported files within conversations. A search feature helps users locate specific conversations or contacts. ChatWave also includes notification controls that allow users to manage how they receive alerts. The colorful interface uses different visual elements to distinguish between messages, contacts, groups, and unread conversations. Users can pin important conversations for quick access and archive conversations that they do not regularly need. The application is designed with responsive layouts so users can communicate using different screen sizes. ChatWave can be useful for university project groups, small organizations, families, and personal communication. Privacy and account security are important aspects of the application because conversations may contain personal information. The platform is designed to provide a straightforward communication experience without unnecessary complexity. ChatWave aims to bring personal and group communication into a single organized environment. By combining direct messaging, group chats, file sharing, contact management, notifications, search, and conversation organization, it provides users with a convenient way to stay connected. The application's primary objective is to make digital communication fast, accessible, and visually engaging while maintaining a simple interface that can be understood by new users.",
+    "size": 52,
+    "reviews": 23940,
+    "ratingAvg": 4.6,
+    "downloads": 1450000,
+    "ratings": [
+      { "name": "1 star", "count": 520 },
+      { "name": "2 star", "count": 710 },
+      { "name": "3 star", "count": 1960 },
+      { "name": "4 star", "count": 6120 },
+      { "name": "5 star", "count": 14630 }
+    ]
+  },
+  {
+    "image": "https://images.seeklogo.com/logo-png/50/2/shop-app-logo-png_seeklogo-502749.png",
+    "title": "ShopMate",
+    "companyName": "MarketNova",
+    "id": 16,
+    "description": "ShopMate is a personal shopping organization application designed to help users create shopping lists, compare products, track spending, and organize purchasing activities. The application provides a colorful interface where users can create multiple lists for groceries, electronics, clothing, household items, academic supplies, and other categories. Each list can contain product names, quantities, estimated prices, and optional notes. Users can mark products as completed after purchasing them. ShopMate also provides a budget tracking feature that calculates the estimated total cost of a shopping list. This can help users avoid unexpected spending and stay within their planned budget. Users can create recurring shopping lists for items they purchase regularly. A product search system allows users to quickly locate items within saved lists. ShopMate provides category-based organization so large shopping lists remain easy to navigate. Users can add notes such as preferred brands, sizes, colors, or other requirements. The application includes spending summaries that show how much users have spent across different shopping categories. Users can also maintain favorite products for quick access. ShopMate is useful for students, families, office workers, and individuals who frequently need to manage shopping activities. It can also be used for event preparation, project purchasing, or household management. The responsive interface allows users to check their lists from smartphones while shopping. ShopMate aims to reduce forgotten items and unnecessary purchases by providing an organized digital shopping system. Rather than keeping shopping information across paper notes and messaging applications, users can maintain everything inside one platform. With shopping lists, budgets, categories, recurring items, notes, and spending summaries, ShopMate provides a practical tool for more organized purchasing. Its goal is not only to make shopping lists easier to create but also to help users understand and control their overall shopping habits.",
+    "size": 34,
+    "reviews": 9340,
+    "ratingAvg": 4.4,
+    "downloads": 520000,
+    "ratings": [
+      { "name": "1 star", "count": 370 },
+      { "name": "2 star", "count": 590 },
+      { "name": "3 star", "count": 1390 },
+      { "name": "4 star", "count": 2810 },
+      { "name": "5 star", "count": 4180 }
+    ]
+  },
+  
+  {
+    "image": "https://png.pngtree.com/png-clipart/20230924/original/pngtree-encrypted-encryption-password-safe-vector-png-image_12849356.png",
+    "title": "PasswordSafe",
+    "companyName": "SecureNest",
+    "id": 18,
+    "description": "PasswordSafe is a digital credential organization application designed to help users manage their account information in a structured and secure environment. The application allows users to organize login information for websites, applications, online services, and other accounts. Users can create entries containing a service name, username, website address, and other optional information. The application uses a simple category system so users can separate work accounts, personal accounts, educational services, shopping accounts, and other credentials. PasswordSafe provides a search function that allows users to locate saved entries quickly. A password generator can create strong random passwords according to user-selected requirements such as length and character types. Users can also update stored entries when passwords or usernames change. The interface uses a clean colorful design while keeping security-related information visually organized. The application can provide automatic timeout functionality so that an unlocked session does not remain open indefinitely. Users can copy information when needed without manually typing long passwords. PasswordSafe is particularly useful for people who have many online accounts and struggle to remember unique passwords for each service. It can also help users organize account information for educational platforms, work services, development tools, and online shopping websites. The application is designed around the principle that users should avoid reusing the same password across multiple services. Sensitive information should be protected through strong authentication and appropriate encryption when implemented in a real system. PasswordSafe is intended as a secure organization concept rather than a replacement for professional security infrastructure. Its goal is to reduce the difficulty of managing many unique account credentials. By combining organized vault entries, categories, search, password generation, session protection, and account management, PasswordSafe provides a convenient environment for handling digital credentials more systematically.",
+    "size": 25,
+    "reviews": 11780,
+    "ratingAvg": 4.7,
+    "downloads": 640000,
+    "ratings": [
+      { "name": "1 star", "count": 240 },
+      { "name": "2 star", "count": 380 },
+      { "name": "3 star", "count": 920 },
+      { "name": "4 star", "count": 3280 },
+      { "name": "5 star", "count": 6960 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/jURK6Bp0BTratyAFkjGBN-Op2rK4aQm24YMfkglaaQ25U-5cyQ2WtczK35zGzrW_Z41YP5Gm0ulzxHvqaX01",
+    "title": "Eventify",
+    "companyName": "GatherTech",
+    "id": 19,
+    "description": "Eventify is an event planning and organization application designed to help users create, manage, and attend personal, academic, professional, and community events. The application provides tools for creating events with titles, dates, locations, descriptions, schedules, and participant information. Users can create private events for friends and family or organize larger activities such as university programs, workshops, seminars, meetings, and conferences. Eventify provides a calendar view that makes it easy to see upcoming events and important dates. Users can create reminders so they do not forget meetings or activities. The application supports guest management, allowing event organizers to maintain a list of invited participants and track responses. A colorful dashboard displays upcoming events and highlights important information. Users can share event details with other participants through supported communication options. Eventify also provides task management for organizers who need to prepare equipment, documents, venues, food, or other requirements before an event. A checklist can be connected to each event to help organizers monitor preparation progress. Users can create recurring events for regular meetings or activities. Eventify is suitable for university students, clubs, companies, families, community groups, and event organizers. The application is designed to reduce the complexity of managing multiple schedules and event-related tasks. Its responsive interface allows users to access event information from mobile devices, tablets, and desktop computers. Eventify aims to provide one organized workspace for event planning rather than requiring users to manage dates, guest lists, reminders, and preparation tasks separately. By combining calendars, invitations, guest management, reminders, checklists, and event details, the application provides a practical solution for both small and large activities. Its main purpose is to help organizers stay prepared and participants stay informed throughout the entire event lifecycle.",
+    "size": 41,
+    "reviews": 8650,
+    "ratingAvg": 4.3,
+    "downloads": 390000,
+    "ratings": [
+      { "name": "1 star", "count": 430 },
+      { "name": "2 star", "count": 650 },
+      { "name": "3 star", "count": 1510 },
+      { "name": "4 star", "count": 2560 },
+      { "name": "5 star", "count": 3500 }
+    ]
+  },
+  {
+    "image": "https://png.pngtree.com/png-vector/20250321/ourlarge/pngtree-financial-management-app-icon-png-image_15749528.png",
+    "title": "Financely",
+    "companyName": "MoneyGrid",
+    "id": 20,
+    "description": "Financely is a financial planning application designed to help users organize personal budgets, savings goals, recurring payments, and financial activities. The application provides a visual dashboard that summarizes income, expenses, savings, and budget performance. Users can create different financial categories and record transactions under each category. This allows them to understand how money is being distributed across areas such as education, transportation, food, entertainment, shopping, and household expenses. Financely provides colorful charts that make financial patterns easier to understand. Users can create monthly budgets and assign spending limits to different categories. The application displays progress indicators showing how much of each budget has already been used. Financely also supports savings goals where users can enter a target amount and track progress toward reaching it. A recurring payment section allows users to record regular bills and subscriptions. Notifications can remind users when a recurring payment is approaching. Users can filter their financial records by date, category, or transaction type. The application provides monthly reports that summarize financial activity and allow users to compare different periods. Financely is suitable for students, employees, freelancers, families, and anyone interested in better personal financial organization. The application is designed to simplify financial planning rather than provide professional financial advice. Its interface avoids unnecessary complexity and focuses on presenting important information clearly. Users can access their financial dashboard from supported devices through a responsive design. Financely aims to help users develop greater awareness of their financial habits by providing clear records and visual summaries. By combining budgeting, expense tracking, savings goals, recurring payments, reports, and charts, Financely provides a practical environment for organizing everyday financial information and developing more disciplined spending and saving habits.",
+    "size": 47,
+    "reviews": 13280,
+    "ratingAvg": 4.5,
+    "downloads": 670000,
+    "ratings": [
+      { "name": "1 star", "count": 330 },
+      { "name": "2 star", "count": 510 },
+      { "name": "3 star", "count": 1440 },
+      { "name": "4 star", "count": 3820 },
+      { "name": "5 star", "count": 7180 }
+    ]
+  },
+  {
+    "image": "https://w7.pngwing.com/pngs/42/626/png-transparent-filevault-mac-os-x-lion-encryption-macos-apple-electronics-fruit-nut-folder-icon-thumbnail.png",
+    "title": "FileVault",
+    "companyName": "DataNest",
+    "id": 21,
+    "description": "FileVault is a digital file organization application designed to help users manage documents, images, project files, and other digital resources in an organized workspace. The application provides folders and categories that allow users to separate personal, academic, professional, and project-related files. Users can upload or add supported files and organize them according to their preferred structure. FileVault includes a search function that allows users to locate files by name or category. Users can rename, move, copy, archive, or delete files when necessary. A colorful folder interface helps users quickly identify different collections. The application also provides file information such as size, type, creation date, and modification date. Users can mark frequently accessed files as favorites so they can find them more quickly. FileVault is particularly useful for students who need to manage assignments, presentations, lecture materials, project documentation, and research files. Professionals can use it to organize reports, spreadsheets, business documents, design assets, and project resources. The application provides a recent-files section that allows users to quickly return to documents they recently worked on. A simple storage overview helps users understand how much space different categories are using. FileVault is designed to reduce the difficulty of finding important documents among large collections of files. Its responsive interface allows users to access organized files from different screen sizes. The application can also support sharing features where users need to provide selected files to colleagues or classmates. Security and access control are important considerations for a real implementation because stored files may contain private information. FileVault aims to provide a structured digital filing system that replaces scattered folders and inconsistent naming practices. By combining folders, search, file information, favorites, recent files, categories, and storage statistics, it gives users practical tools for maintaining an organized digital workspace.",
+    "size": 67,
+    "reviews": 10240,
+    "ratingAvg": 4.4,
+    "downloads": 540000,
+    "ratings": [
+      { "name": "1 star", "count": 410 },
+      { "name": "2 star", "count": 530 },
+      { "name": "3 star", "count": 1320 },
+      { "name": "4 star", "count": 3070 },
+      { "name": "5 star", "count": 4910 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/fluent/1200/windows-calendar.jpg",
+    "title": "CalendarPro",
+    "companyName": "TimeWorks",
+    "id": 22,
+    "description": "CalendarPro is a scheduling and time management application designed to help users organize appointments, meetings, deadlines, classes, and personal activities. The application provides daily, weekly, and monthly calendar views so users can select the planning style that works best for them. Events can include titles, dates, times, locations, descriptions, and reminders. Users can assign different colors to different event categories, making it easier to distinguish academic, professional, personal, and social activities. CalendarPro includes reminder notifications that can be configured according to how much advance notice users want. Users can create recurring events for activities that happen regularly, such as weekly classes, meetings, or appointments. The application provides a search function for finding events quickly. Users can also create separate calendars for different areas of their lives and enable or disable them when necessary. A task integration feature allows users to connect deadlines with calendar events. CalendarPro is especially useful for university students who need to manage classes, examinations, assignments, and project deadlines. Professionals can use it to organize meetings, work schedules, appointments, and business activities. The application also works well for families and individuals who need to coordinate personal activities. Its colorful interface provides an overview of busy and free periods, helping users understand their schedules more easily. CalendarPro is designed to remain simple enough for everyday use while supporting advanced scheduling requirements. Its responsive design allows users to manage their calendars from computers, tablets, and mobile devices. The application aims to help users make better use of their time by turning scattered appointments and deadlines into one organized schedule. By combining multiple calendar views, event creation, reminders, recurring schedules, categories, search, and task integration, CalendarPro provides a comprehensive environment for planning everyday activities.",
+    "size": 33,
+    "reviews": 14870,
+    "ratingAvg": 4.6,
+    "downloads": 760000,
+    "ratings": [
+      { "name": "1 star", "count": 310 },
+      { "name": "2 star", "count": 470 },
+      { "name": "3 star", "count": 1290 },
+      { "name": "4 star", "count": 3840 },
+      { "name": "5 star", "count": 8960 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/plasticine/1200/memrise.jpg",
+    "title": "LanguageMate",
+    "companyName": "LinguaLabs",
+    "id": 23,
+    "description": "LanguageMate is a language learning application designed to help users improve vocabulary, grammar, pronunciation, and everyday communication skills. The application supports structured learning through lessons, vocabulary exercises, quizzes, and review sessions. Users can select a language and choose learning goals according to their current level. Lessons are divided into manageable sections so learners can study gradually. LanguageMate provides colorful flashcards that help users memorize new words and phrases. A spaced-review system can remind users to revisit vocabulary they previously learned. The application includes quizzes that allow learners to test their knowledge and identify areas that require additional practice. Users can maintain daily learning goals and track their progress through statistics. A progress dashboard displays completed lessons, vocabulary learned, practice sessions, and learning streaks. LanguageMate also provides topic-based vocabulary categories such as travel, education, food, shopping, work, technology, and daily conversation. Users can save difficult words for additional review. The application is useful for students, travelers, professionals, and independent learners who want to develop communication skills in another language. The interface is designed to make learning engaging through colors, progress indicators, badges, and interactive activities. Users can continue lessons from where they previously stopped, making the application suitable for flexible study schedules. LanguageMate aims to turn language learning into a consistent daily habit rather than a one-time activity. By combining lessons, flashcards, quizzes, vocabulary categories, progress tracking, and review sessions, the application gives users a structured environment for improving their language skills. The application is particularly helpful for learners who prefer short, regular practice sessions. Its responsive design allows users to study from different devices. LanguageMate focuses on practical vocabulary and learning organization while providing an accessible interface for beginners and intermediate learners.",
+    "size": 49,
+    "reviews": 17540,
+    "ratingAvg": 4.7,
+    "downloads": 870000,
+    "ratings": [
+      { "name": "1 star", "count": 280 },
+      { "name": "2 star", "count": 410 },
+      { "name": "3 star", "count": 1070 },
+      { "name": "4 star", "count": 4210 },
+      { "name": "5 star", "count": 11570 }
+    ]
+  },
+  {
+    "image": "https://png.pngtree.com/png-vector/20240705/ourmid/pngtree-the-photo-lab-app-logo-with-a-purple-vector-png-image_7075951.png",
+    "title": "PhotoLab",
+    "companyName": "VisualWorks",
+    "id": 24,
+    "description": "PhotoLab is a creative photo editing application designed for users who want to enhance and customize their digital images. The application provides basic and advanced editing tools that allow users to adjust brightness, contrast, saturation, exposure, sharpness, and other visual properties. Users can crop, rotate, resize, and straighten images before applying additional effects. PhotoLab includes a colorful collection of filters that can be used to create different visual styles. Users can combine multiple adjustments to produce a personalized result. The application also provides text and sticker tools for users who want to create social media graphics, posters, invitations, or personal designs. A collection of frames and visual effects can be applied to photographs for creative purposes. PhotoLab supports project organization so users can keep edited images grouped according to different projects. Users can compare edited images with their original versions before saving the final result. The application is useful for students creating presentation graphics, content creators preparing social media images, photographers making quick adjustments, and everyday users who want to improve personal photographs. PhotoLab focuses on providing useful editing capabilities without requiring professional design experience. The interface uses clearly labeled tools and colorful controls to make common editing operations easy to discover. Users can undo changes and experiment with different effects without permanently modifying the original image. The application can export completed designs in commonly used image formats. Its responsive interface allows users to edit images on different screen sizes. PhotoLab aims to make creative image editing accessible to beginners while providing enough flexibility for more experienced users. By combining adjustment controls, filters, cropping, text, stickers, frames, effects, and project organization, the application provides a complete environment for everyday photo editing. Its primary objective is to help users transform ordinary images into attractive and personalized visual content with minimal complexity.",
+    "size": 88,
+    "reviews": 18920,
+    "ratingAvg": 4.6,
+    "downloads": 1020000,
+    "ratings": [
+      { "name": "1 star", "count": 360 },
+      { "name": "2 star", "count": 520 },
+      { "name": "3 star", "count": 1480 },
+      { "name": "4 star", "count": 4920 },
+      { "name": "5 star", "count": 11640 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIREmS5BVDl5J0fs4L4Orj_29d4yuUa42oZyO0w2pDypnsDpnRtKyvRwp4&s=10",
+    "title": "DevTools Hub",
+    "companyName": "TechForge",
+    "id": 25,
+    "description": "DevTools Hub is a developer utility application that brings frequently used programming and software development tools into one convenient workspace. The application is designed for students, web developers, software engineers, and technical professionals who regularly need small utilities while building applications. DevTools Hub provides tools for formatting JSON, encoding and decoding text, generating random identifiers, converting timestamps, testing regular expressions, inspecting URLs, and working with common development formats. Each utility is organized into its own section so users can quickly access the tool they need. The interface uses a colorful developer-oriented design while keeping individual tools simple. DevTools Hub includes copy buttons that allow users to quickly transfer generated or formatted results into their projects. A history feature can store recently used operations so users can return to previous work. The application also includes a customizable workspace where users can select frequently used utilities and place them on a quick-access dashboard. Developers can use the JSON formatter when working with API responses, the timestamp converter when debugging applications, and the regular expression tester when building validation systems. Students can use the utilities while completing programming assignments and web development projects. DevTools Hub is designed to reduce the need to search for separate websites whenever a small development task is required. The application provides responsive layouts so utilities remain usable on different screen sizes. Its simple structure makes it accessible to beginners while still being useful for experienced programmers. DevTools Hub aims to become a convenient toolbox for everyday development tasks. By combining multiple utilities, quick access, copy functionality, history, and customizable tools, the application saves time and provides developers with a consistent workspace. The project is particularly useful as a companion application for programming environments, allowing developers to perform small transformations and checks without interrupting their main development workflow.",
+    "size": 29,
+    "reviews": 7460,
+    "ratingAvg": 4.5,
+    "downloads": 410000,
+    "ratings": [
+      { "name": "1 star", "count": 220 },
+      { "name": "2 star", "count": 310 },
+      { "name": "3 star", "count": 910 },
+      { "name": "4 star", "count": 2140 },
+      { "name": "5 star", "count": 3880 }
+    ]
+  },
+  {
+    "image": "https://png.pngtree.com/png-vector/20221128/ourmid/pngtree-digital-learning-ebook-internet-online-computer-remote-study-app-logo-png-image_6483467.png",
+    "title": "BookNest",
+    "companyName": "ReadSphere",
+    "id": 26,
+    "description": "BookNest is a digital book organization application designed for readers who want to manage their reading lists, discover books, and track their reading progress. Users can create personal libraries containing books they own, want to read, are currently reading, or have already completed. The application provides colorful book covers and category labels that make the library visually attractive and easy to navigate. Users can search for books by title, author, genre, or keyword. Each book entry can contain information such as title, author, publication details, description, rating, and personal notes. BookNest provides reading progress tracking so users can record how far they have progressed through a book. A reading statistics section summarizes the number of books completed, pages read, and reading goals achieved. Users can create annual reading goals and monitor their progress throughout the year. The application supports custom collections, allowing readers to organize books into categories such as fiction, technology, science, biography, business, or personal development. Users can add personal reviews and ratings after completing a book. A recommendation section can suggest books based on genres and titles that users have previously saved. BookNest is suitable for university students, researchers, casual readers, and people who want to develop a consistent reading habit. The application can also be useful for managing academic reading lists. Its responsive design makes the library accessible from different devices. BookNest aims to make reading organization simple and motivating. By combining digital libraries, reading lists, progress tracking, goals, reviews, categories, and recommendations, it provides users with a central place to manage their reading activities. The application's main purpose is to help readers discover books, remember what they have read, and maintain a more consistent reading routine.",
+    "size": 38,
+    "reviews": 11690,
+    "ratingAvg": 4.7,
+    "downloads": 590000,
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 340 },
+      { "name": "3 star", "count": 890 },
+      { "name": "4 star", "count": 2870 },
+      { "name": "5 star", "count": 7380 }
+    ]
+  },
+  {
+    "image": "https://png.pngtree.com/template/20191219/ourmid/pngtree-find-job-logo-template-designs-vector-illustration-image_341400.jpg",
+    "title": "JobFinder",
+    "companyName": "CareerBridge",
+    "id": 27,
+    "description": "JobFinder is a career discovery and job organization application designed to help users search for employment opportunities and manage their job applications. Users can create a professional profile containing their education, skills, experience, and career interests. The application provides a searchable collection of job opportunities organized by industry, location, experience level, employment type, and other relevant categories. Users can save interesting positions and return to them later. JobFinder includes an application tracker that allows users to record the status of applications, such as saved, applied, interview, selected, or rejected. This helps job seekers manage multiple applications without relying on separate spreadsheets or notes. Users can add deadlines and reminders for interviews, application closing dates, and follow-up activities. The application provides colorful status indicators that make the application pipeline easy to understand. JobFinder can also help users organize resumes and cover letter information for different applications. A profile section allows users to update their skills and career preferences. Students and recent graduates can use the application to discover internships, entry-level positions, and graduate opportunities. Experienced professionals can use it to monitor new career opportunities and organize their job-search activities. The search system allows users to apply multiple filters so they can focus on relevant opportunities. JobFinder aims to make the job-search process more organized and less stressful by bringing opportunities and application management into one workspace. By combining job discovery, search filters, saved jobs, application tracking, reminders, profiles, and career organization, the application gives users a practical tool for managing their professional journey. Its responsive interface allows users to search and update application information from different devices. The primary goal of JobFinder is to help users stay organized while searching for suitable career opportunities and progressing through recruitment processes.",
+    "size": 45,
+    "reviews": 15320,
+    "ratingAvg": 4.5,
+    "downloads": 720000,
+    "ratings": [
+      { "name": "1 star", "count": 410 },
+      { "name": "2 star", "count": 590 },
+      { "name": "3 star", "count": 1540 },
+      { "name": "4 star", "count": 4180 },
+      { "name": "5 star", "count": 8600 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/906/906334.png",
+    "title": "TaskBoard",
+    "companyName": "AgileWorks",
+    "id": 28,
+    "description": "TaskBoard is a visual project management application designed for individuals and teams who want to organize work using boards, lists, and task cards. The application allows users to create projects and divide them into different stages such as planned, in progress, review, and completed. Tasks can be represented as cards containing titles, descriptions, priorities, deadlines, and assigned members. The visual board makes it easy to understand the current status of a project without reading lengthy reports. Users can drag tasks between columns as work progresses. TaskBoard provides colorful labels that can be used to identify task categories and priorities. Team members can add comments and updates to individual tasks so important project discussions remain connected to the relevant work item. The application also includes due-date reminders to help teams avoid missed deadlines. Users can create checklists inside tasks for activities that require multiple steps. A dashboard provides project statistics such as completed tasks, pending work, overdue tasks, and overall progress. TaskBoard is useful for software development teams, university project groups, marketing teams, event organizers, freelancers, and individuals managing personal projects. Users can create separate boards for different projects and invite team members where collaboration is required. The application is designed to remain simple enough for beginners while providing useful project management capabilities. Its responsive layout allows users to access boards from computers, tablets, and smartphones. TaskBoard aims to improve project visibility by transforming complicated task lists into a visual workflow. By combining boards, columns, task cards, labels, checklists, comments, deadlines, reminders, and progress statistics, the application provides a flexible environment for organizing work. Its primary objective is to help users understand what needs to be done, what is currently being worked on, and what has already been completed.",
+    "size": 51,
+    "reviews": 12980,
+    "ratingAvg": 4.6,
+    "downloads": 630000,
+    "ratings": [
+      { "name": "1 star", "count": 290 },
+      { "name": "2 star", "count": 420 },
+      { "name": "3 star", "count": 1180 },
+      { "name": "4 star", "count": 3560 },
+      { "name": "5 star", "count": 7530 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjvUnN_IKVsqkZEYCC2JkG52h_X6UHjX5DvvLP8s0H2A&s",
+    "title": "Podcastly",
+    "companyName": "AudioNest",
+    "id": 29,
+    "description": "Podcastly is an audio discovery and podcast organization application designed for listeners who want to discover shows, organize subscriptions, and keep track of episodes. Users can browse podcasts across categories such as technology, education, business, entertainment, science, news, storytelling, and personal development. Each podcast page provides information about the show and its available episodes. Users can subscribe to podcasts they enjoy and receive updates when new episodes become available. Podcastly provides a personalized library where users can see subscribed shows, saved episodes, and recently played content. The application includes a search system for finding podcasts by title, creator, category, or keyword. Users can save individual episodes to listen to later. A playback history helps listeners return to episodes they previously started. The application can display episode duration so users can choose content according to the amount of time they have available. Podcastly includes playlists where users can organize episodes according to topics or activities. Users can create collections for studying, commuting, exercising, relaxing, or learning. The colorful interface uses podcast artwork to make the library visually engaging. Podcastly is suitable for students, professionals, hobbyists, and anyone interested in audio-based learning or entertainment. Users can discover educational podcasts while commuting or performing routine activities. The application is designed to make podcast organization easier by bringing subscriptions, saved episodes, playlists, and listening history into one environment. Its responsive design allows users to browse content from different devices. Podcastly aims to make audio discovery more personalized and organized. By combining podcast discovery, subscriptions, search, saved episodes, playlists, playback history, and categories, the application gives listeners greater control over their audio libraries. Its main objective is to help users discover useful and entertaining podcasts while making it easier to keep track of the content they want to hear.",
+    "size": 57,
+    "reviews": 10890,
+    "ratingAvg": 4.4,
+    "downloads": 570000,
+    "ratings": [
+      { "name": "1 star", "count": 390 },
+      { "name": "2 star", "count": 540 },
+      { "name": "3 star", "count": 1510 },
+      { "name": "4 star", "count": 3180 },
+      { "name": "5 star", "count": 5270 }
+    ]
+  },
+  {
+    "image": "https://e7.pngegg.com/pngimages/13/299/png-clipart-money-management-expense-android-angle-personal-finance-thumbnail.png",
+    "title": "ExpenseMate",
+    "companyName": "BudgetCraft",
+    "id": 30,
+    "description": "ExpenseMate is an expense tracking application designed to help users record everyday purchases and understand their spending patterns. The application provides a simple dashboard showing recent transactions, monthly expenses, category totals, and budget progress. Users can add transactions by entering an amount, category, date, payment method, and optional description. Categories can include food, transportation, education, shopping, entertainment, housing, utilities, and other personal expenses. ExpenseMate provides colorful charts that make spending patterns easier to understand. Users can create monthly spending limits and monitor how much of each budget has already been used. The application includes filters that allow users to view transactions based on category, date range, or payment method. A monthly report summarizes total spending and compares current activity with previous periods. ExpenseMate also allows users to create recurring expense records for regular bills and subscriptions. Users can add notes to transactions to remember why a purchase was made. The application is suitable for students, employees, freelancers, families, and anyone who wants a clearer picture of everyday spending. Its interface is designed to be simple so users can record expenses quickly without interrupting their daily routine. ExpenseMate does not require advanced accounting knowledge because it focuses on straightforward personal expense management. The application can be accessed through responsive layouts on supported devices. ExpenseMate aims to help users become more aware of where their money goes by making financial records easy to maintain and understand. By combining transaction tracking, budgets, categories, reports, filters, recurring expenses, and visual charts, it provides a practical environment for managing everyday spending. The application's primary goal is to turn expense recording into a simple habit that can help users make more informed personal financial decisions.",
+    "size": 32,
+    "reviews": 8950,
+    "ratingAvg": 4.3,
+    "downloads": 460000,
+    "ratings": [
+      { "name": "1 star", "count": 450 },
+      { "name": "2 star", "count": 620 },
+      { "name": "3 star", "count": 1590 },
+      { "name": "4 star", "count": 2680 },
+      { "name": "5 star", "count": 3610 }
+    ]
+  },
+   {
+    "image": "https://s3-figma-hubfile-images-production-cdn-cgi.figma.com/cdn-cgi/image/format=auto,quality=85/hub/file/carousel/img/853c035f69178972dc9e618a94c77f6da334fec2/f1bdbf47c4f81d794c7cf8ff1043a702d7f0e2d9",
+    "title": "TaskFlow Pro",
+    "companyName": "NovaSoft Technologies",
+    "id": 1,
+    "description": "TaskFlow Pro is a modern productivity and task management application designed to help individuals, students, freelancers, and professional teams organize their daily responsibilities more efficiently. The application provides a clean and intuitive workspace where users can create tasks, assign priorities, set deadlines, organize projects, and monitor their progress from a single dashboard. Its colorful interface makes it easy to distinguish between different projects and task categories while keeping the overall experience simple and focused. Users can create personal task lists or collaborate with team members on shared projects. Each task can contain a title, detailed description, priority level, deadline, checklist, and optional notes. The application also provides progress indicators that allow users to quickly understand how much work has been completed and what remains. TaskFlow Pro includes smart reminders that notify users about approaching deadlines, helping them avoid missed assignments and important responsibilities. A calendar view allows users to visualize upcoming tasks and plan their workload more effectively. The application is particularly useful for students who need to manage assignments, examination preparation, group projects, and personal activities. Professionals can use it to manage meetings, development tasks, business projects, and team responsibilities. Another important feature is productivity analytics, which provides simple reports about completed tasks and working patterns. TaskFlow Pro is designed with performance and accessibility in mind, allowing users to access their information quickly even when managing many tasks. Its responsive design works across desktop, tablet, and mobile devices. By combining task management, collaboration, reminders, calendar planning, and productivity statistics, TaskFlow Pro provides a complete digital workspace for anyone who wants to stay organized, reduce stress, and accomplish their goals more consistently.",
+    "size": 48,
+    "reviews": 18420,
+    "ratingAvg": 4.7,
+    "downloads": 850000,
+    "ratings": [
+      { "name": "1 star", "count": 520 },
+      { "name": "2 star", "count": 740 },
+      { "name": "3 star", "count": 1820 },
+      { "name": "4 star", "count": 4960 },
+      { "name": "5 star", "count": 10380 }
+    ]
+  }
+]
