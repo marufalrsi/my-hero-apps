@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from 'react';
 import { getData, removedata } from '../localStorage.js';
 import HorizontalAppCard from'../HorizontalAppCard/HorizontalAppCard.jsx'
+import { ToastContainer } from 'react-toastify';
 
 const Installations = () => {
     const [allapps, setallapps] = useState([]);
-
     useEffect(() => {
         const installedIds = getData();
 
@@ -22,12 +22,10 @@ const Installations = () => {
     }, []);
     const handleRemove = (id) => {
     removedata(id);
-
     setallapps((apps) =>
         apps.filter((app) => String(app.id) !== String(id))
     );
 };
-
     return (
         <div>
             <div className='my-20 max-w-6xl mx-auto'>
@@ -45,6 +43,7 @@ const Installations = () => {
                         />
                     ))}
                 </div>
+                <ToastContainer />
         </div>
     );
 };

@@ -1,12 +1,15 @@
 import React from 'react';
 import download from '../assets/icon-downloads.png';
 import star from '../assets/icon-ratings.png';
+import { toast } from 'react-toastify';
 
 
 const HorizontalAppCard = ({ app, handleRemove }) => {
   console.log(app);
   const{image,title,downloads,ratingAvg,id,size
 } = app;
+const notify = () => toast("uninstalling");
+
     return (
         <div className='flex justify-between items-center my-5 px-5 bg-gray-50 rounded-2xl'>
             <div className='flex justify-center items-center'>
@@ -29,7 +32,9 @@ const HorizontalAppCard = ({ app, handleRemove }) => {
                 </div>
             </div>
             <div>
-                <button onClick={() => handleRemove(id)} className="btn btn-success">uninstall</button>
+                <button onClick={() => {handleRemove(id)
+                    notify()
+                }} className="btn btn-success">uninstall</button>
             </div>
         </div>
     );

@@ -7,7 +7,7 @@ import rating from '../assets/icon-ratings.png';
 import review from '../assets/icon-review.png';
 import Chart from '../Chart/Chart.jsx';
 import { getData, setdata } from '../localStorage.js';
-
+import { ToastContainer, toast } from 'react-toastify';
 
 const Bookdetails = () => {
     const { id } = useParams();
@@ -29,6 +29,15 @@ size
 
  } = oneapp || {};
  const data = ratings;
+ const notify = () => toast("installing");
+ const handleinstall =(id)=>{
+    if(!installed){
+       setdata(id)
+     notify();}
+ }
+  const installed=getData()
+  const isinstalled=installed.includes(String(id))
+  console.log(isinstalled)
     return (
         <div className="max-w-6xl mx-auto mt-10">
         <div className="flex gap-10">
@@ -56,8 +65,7 @@ size
                     <h1 className='font-extrabold text-4xl'>{reviews}</h1>
                 </div>
             </div>
-            <button onClick={()=>setdata(id)} className="btn btn-success">Install Now ({
-size} MB)</button>
+            <button onClick={()=>handleinstall(id)} className="btn btn-success">{isinstalled ? "Installed" : `Install Now (${size} MB)`}</button>
             </div>
         </div>
         <div className='mt-10'>
@@ -69,6 +77,7 @@ size} MB)</button>
              <h1 className='py-3 text-justify'>{description}
 </h1>
         </div>
+         <ToastContainer />
         </div>
     );
 };
