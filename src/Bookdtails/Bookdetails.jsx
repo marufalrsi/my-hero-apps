@@ -12,6 +12,9 @@ import { ToastContainer, toast } from 'react-toastify';
 const Bookdetails = () => {
     const { id } = useParams();
     const [appData, setAppData] = useState([]);
+    const [isInstalled, setIsInstalled] = useState(() =>
+        getData().includes(String(id))
+    );
 
     useEffect(() => {
         Promise.all([
@@ -31,13 +34,11 @@ size
  const data = ratings;
  const notify = () => toast("installing");
  const handleinstall =(id)=>{
-    if(!installed){
+     if(!isInstalled){
        setdata(id)
+         setIsInstalled(true);
      notify();}
  }
-  const installed=getData()
-  const isinstalled=installed.includes(String(id))
-  console.log(isinstalled)
     return (
         <div className="max-w-6xl mx-auto mt-10">
         <div className="flex gap-10">
@@ -65,7 +66,7 @@ size
                     <h1 className='font-extrabold text-4xl'>{reviews}</h1>
                 </div>
             </div>
-            <button onClick={()=>handleinstall(id)} className="btn btn-success">{isinstalled ? "Installed" : `Install Now (${size} MB)`}</button>
+            <button onClick={()=>handleinstall(id)} className="btn btn-success">{isInstalled ? "Installed" : `Install Now (${size} MB)`}</button>
             </div>
         </div>
         <div className='mt-10'>
