@@ -8,6 +8,8 @@ const Appcard = ({ app }) => {
   const{image,title,downloads,ratingAvg,id
 } = app;
     return (
+      <div>
+        
     <Link to={`/bookdetail/${id}`} className="card bg-base-100 w-full shadow-sm">
   <figure className="px-3 pt-3 h-60">
     <img
@@ -23,6 +25,7 @@ const Appcard = ({ app }) => {
  <button className="btn btn-soft btn-warning btn-xs"><img src={star} alt="Rating" className="w-4 h-4 mr-2" /> {ratingAvg}</button>
 </div>
 </Link>
+</div>
     );
 };
 
