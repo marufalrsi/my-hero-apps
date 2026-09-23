@@ -38,7 +38,7 @@ const Installations = () => {
             }
 
             if (type === "download") {
-                return a.downloads - b.downloads;
+                return a.downloads - Number(b.downloads || 0);
             }
 
             return 0;

@@ -1,9 +1,12 @@
-import React from 'react';
+import React, { useState } from 'react';
 import logo from '../assets/logo.png';
 import github from '../assets/Vector.png';
 import { Link } from 'react-router';
 
 const Navbar = () => {
+  const [home,sethome]=useState(true)
+  const [app, setapp]=useState(false)
+  const [install,setinstall]=useState(false)
     return (
         <div>
             <div className="navbar bg-base-100 shadow-sm max-w-6xl mx-auto">
@@ -15,34 +18,25 @@ const Navbar = () => {
       <ul
         tabIndex={-1}
         className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
-        <li><a>Item 1</a></li>
-        <li>
-          <a>Parent</a>
-          <ul className="p-2">
-            <li><a>Submenu 1</a></li>
-            <li><a>Submenu 2</a></li>
-          </ul>
-        </li>
-        <li><a>Item 3</a></li>
-      </ul>
+      <li><Link to="/" className='font-semibold'>Home</Link></li>
+      <li>
+        
+        <Link to="/apps" className='font-semibold'>Apps</Link>
+      </li>
+      <li><Link to="/installations" className='font-semibold'>Installation</Link></li>
+    </ul>
     </div>
     
     <Link to="/" className="btn btn-ghost text-[16px] font-bold bg-gradient-to-r from-indigo-500 to-purple-500 bg-clip-text text-transparent"><img className="h-6 w-6" src={logo} alt="Logo" />HERO.IO</Link>
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1">
-      <li><Link to="/" className='font-semibold'>Home</Link></li>
+      <li><Link to="/" className={`font-semibold ${home === true ? 'bg-blue-300' : ''}`}  onClick={()=>{setapp(false);sethome(true);setinstall(false)}}>Home</Link></li>
       <li>
-        {/* <details>
-          <summary>Parent</summary>
-          <ul className="p-2 bg-base-100 w-40 z-1">
-            <li><a>Submenu 1</a></li>
-            <li><a>Submenu 2</a></li>
-          </ul>
-        </details> */}
-        <Link to="/apps" className='font-semibold'>Apps</Link>
+        
+        <Link to="/apps" className={`font-semibold ${app === true ? 'bg-blue-300' : ''}`} onClick={()=>{setapp(true);sethome(false);setinstall(false)}}>Apps</Link>
       </li>
-      <li><Link to="/installations" className='font-semibold'>Installation</Link></li>
+    <li><Link to="/installations" className={`font-semibold ${install === true ? 'bg-blue-300' : ''}`} onClick={()=>{setapp(false);sethome(false);setinstall(true)}}>Installation</Link></li>
     </ul>
   </div>
   <div className="navbar-end">
